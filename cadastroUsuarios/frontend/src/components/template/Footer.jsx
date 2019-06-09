@@ -3,5 +3,5 @@ import React from 'react'
 
 export default props =>
     <footer className="footer">
-        Rodape sem pé
+        Rodape
     </footer>
