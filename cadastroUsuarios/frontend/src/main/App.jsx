@@ -6,7 +6,7 @@ import React from 'react'
 
 import Logo from '../components/template/Logo'
 import Nav from '../components/template/Nav'
-import Main from '../components/template/Main'
+import Home from '../components/home/Home'
 import Footer from '../components/template/Footer'
 
 export default props =>
@@ -14,7 +14,7 @@ export default props =>
         
         <Logo />
         <Nav />
-        <Main icon='home' tittle='Início' subtit="Cadastro de usuários" />
+        <Home />
         <Footer />
 
     </div>
