@@ -8,7 +8,7 @@ const headerProps = {
     subtit: 'Inserir, Alterar Excluir'
 }
 
-const baseURL = 'http://localhost:3005/users'
+const baseURL = 'http://192.168.0.10:3005/users'
 const initialState ={
     user:{name: '', email: ''},
     list:[]
