@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Emanuel Guerke",
-      "email": "emanuelguerkecode@gmail.com"
+      "name": "Usuario1",
+      "email": "usuario1@gmail.com"
     },
     {
       "id": 2,
@@ -11,9 +11,14 @@
       "email": "usuariodois@yahoo.com"
     },
     {
-      "name": "emanuel",
-      "email": "emanuelguerke@hotmail.com",
+      "name": "hikaru",
+      "email": "hoshina@hotmail.com",
       "id": 3
+    },
+    {
+      "name": "erika",
+      "email": "erika@hotmail.com",
+      "id": 4
     }
   ]
 }
