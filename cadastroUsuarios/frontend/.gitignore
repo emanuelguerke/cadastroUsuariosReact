@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+cadastroUsuarios/backend/db.json
 /.pnp
 .pnp.js
 
