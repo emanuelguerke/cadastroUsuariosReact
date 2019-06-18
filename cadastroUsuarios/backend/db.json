@@ -1,24 +1,19 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Usuario1",
-      "email": "usuario1@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "Usuario dois",
-      "email": "usuariodois@yahoo.com"
-    },
-    {
-      "name": "hikaru",
-      "email": "hoshina@hotmail.com",
-      "id": 3
-    },
-    {
       "name": "erika",
       "email": "erika@hotmail.com",
       "id": 4
+    },
+    {
+      "name": "sasa",
+      "email": "sa@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "hikaru",
+      "email": "hoshina@hikaru.com",
+      "id": 6
     }
   ]
 }
